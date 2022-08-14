@@ -1,0 +1,12 @@
+.about-info {
+    margin: 20px auto;
+  }
+
+  .commonUnderLine {
+    background: #ff4a57;
+    height: 3px;
+    width: 100px;
+  }
+  .img-about{
+    height: 500px;
+  }

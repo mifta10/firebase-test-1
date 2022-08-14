@@ -1,0 +1,15 @@
+.blog-card{
+    margin-top: 5%;
+    border: none; 
+    box-shadow:  0px 0px 10px gray;
+}
+.blog-card:hover{
+    color: #ff4a57;
+}
+.blog-body{
+    color: #fff
+}
+.blog-body:hover{
+    color: #ff4a57;
+    text-decoration: none;
+}
